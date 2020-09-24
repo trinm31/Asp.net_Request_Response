@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDHPyVJ6i/Cld2UkYb6g7HgoA5F9i9xG4VTyIEgncliFos5HY6lK9sM+AtilYbv148AEbHyuFLvmyANHTEJWyg==",
+  "success": true,
+  "projectFilePath": "/Users/minhtri/Documents/Dev/ASP_NET_CORE/03.RequestResponse/03.RequestResponse.csproj",
+  "expectedPackageFiles": [
+    "/Users/minhtri/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
